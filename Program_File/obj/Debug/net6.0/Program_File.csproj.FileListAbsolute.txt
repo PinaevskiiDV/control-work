@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Control work\Test_Program\Test\Program_File\bin\Debug\net6.0\Program_File.exe
+C:\Users\Asus\Desktop\Control work\Test_Program\Test\Program_File\bin\Debug\net6.0\Program_File.deps.json
+C:\Users\Asus\Desktop\Control work\Test_Program\Test\Program_File\bin\Debug\net6.0\Program_File.runtimeconfig.json
+C:\Users\Asus\Desktop\Control work\Test_Program\Test\Program_File\bin\Debug\net6.0\Program_File.dll
+C:\Users\Asus\Desktop\Control work\Test_Program\Test\Program_File\bin\Debug\net6.0\Program_File.pdb
+C:\Users\Asus\Desktop\Control work\Test_Program\Test\Program_File\obj\Debug\net6.0\Program_File.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Control work\Test_Program\Test\Program_File\obj\Debug\net6.0\Program_File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Control work\Test_Program\Test\Program_File\obj\Debug\net6.0\Program_File.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Control work\Test_Program\Test\Program_File\obj\Debug\net6.0\Program_File.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Control work\Test_Program\Test\Program_File\obj\Debug\net6.0\Program_File.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Control work\Test_Program\Test\Program_File\obj\Debug\net6.0\Program_File.dll
+C:\Users\Asus\Desktop\Control work\Test_Program\Test\Program_File\obj\Debug\net6.0\refint\Program_File.dll
+C:\Users\Asus\Desktop\Control work\Test_Program\Test\Program_File\obj\Debug\net6.0\Program_File.pdb
+C:\Users\Asus\Desktop\Control work\Test_Program\Test\Program_File\obj\Debug\net6.0\Program_File.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Control work\Test_Program\Test\Program_File\obj\Debug\net6.0\ref\Program_File.dll
